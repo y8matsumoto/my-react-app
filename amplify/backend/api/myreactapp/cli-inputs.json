@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "myreactapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\kimura\\Desktop\\codechrysalis\\my-react-app\\amplify\\backend\\api\\myreactapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2021-12-01T12:36:02.536Z",
+      "keyDescription": "demo"
+    }
+  }
+}
